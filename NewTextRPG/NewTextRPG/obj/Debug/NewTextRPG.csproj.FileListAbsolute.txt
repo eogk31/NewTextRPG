@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NewTextRPG\NewTextRPG\bin\Debug\NewTextRPG.exe.config
+C:\Users\ADMIN\source\repos\NewTextRPG\NewTextRPG\bin\Debug\NewTextRPG.exe
+C:\Users\ADMIN\source\repos\NewTextRPG\NewTextRPG\bin\Debug\NewTextRPG.pdb
+C:\Users\ADMIN\source\repos\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.exe
+C:\Users\ADMIN\source\repos\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.pdb
+C:\Users\ADMIN\Desktop\NewTextRPG\NewTextRPG\bin\Debug\NewTextRPG.exe.config
+C:\Users\ADMIN\Desktop\NewTextRPG\NewTextRPG\bin\Debug\NewTextRPG.exe
+C:\Users\ADMIN\Desktop\NewTextRPG\NewTextRPG\bin\Debug\NewTextRPG.pdb
+C:\Users\ADMIN\Desktop\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.exe
+C:\Users\ADMIN\Desktop\NewTextRPG\NewTextRPG\obj\Debug\NewTextRPG.pdb
